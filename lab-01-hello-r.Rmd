@@ -6,6 +6,7 @@ output:
   html_document: 
     theme: cosmo
     fig_width: 5
+    highlight: zenburn
 ---
 
 ## Load packages and data
